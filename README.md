@@ -134,7 +134,7 @@ Student exam scores typically form a symmetric bell-shaped curve:
 # 👩‍💻 Author
 
 **Nagaveni Kittur**
-AI & Machine Learning Student
+CSE Student
 
 ---
 
@@ -142,7 +142,7 @@ AI & Machine Learning Student
 
 This repository is created for academic submission and demonstrates foundational knowledge in:
 
-* Data Science lifecycle
+* FAIML lifecycle
 * Predictive modeling
 * Statistical distributions
 * Real-world problem analysis
