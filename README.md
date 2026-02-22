@@ -1,4 +1,4 @@
-# 📊 Data Science Assignments Portfolio
+# 📊 FAIML Assignments Portfolio
 
 This repository contains two academic projects focused on **Data Science, Statistics, and Machine Learning fundamentals**. The projects demonstrate both theoretical understanding and real-world application of predictive analytics and statistical distributions.
 
